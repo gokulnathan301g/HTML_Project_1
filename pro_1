@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+
+
+    </head>
+    <center>
+    <h1>Upcoming Events 📅</h1>
+    <p>Dont mess up your any of your Events.Stay Updated</p>
+
+   
+      
+    
+
+    <body bgcolor="black" style="color: white;">
+        </center>
+    <hr>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. In quo nisi beatae saepe optio ipsum alias ea numquam repellendus cupiditate minima distinctio eos non ullam laboriosam voluptate, sequi perspiciatis <provident class="100"></provident>
+
+    </p>
+    <center>
+        <img src="img/event1.png">
+        <img src="https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=1024x1024&w=0&k=20&c=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8=" width:"10px height:"555px"
+        <h1>Photo Gallery Event</h1>
+        <br>
+        <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+         <p>
+            
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste alias dolores, iusto vel in eligendi perferendis assumenda excepturi itaque magni dignissimos blanditiis modi magnam quis quaerat, numquam voluptas dolorum laborum!
+         </p>
+        <br>
+        <br>
+        <img src="img/event2.png"> 
+        
+        </center>
+        <center>
+            <h1>
+                <a href="https://www.myntra.com/?utm_source=gh_ht&utm_medium=ht_rev&utm_campaign=gh_ht_listicle50r&gad_source=1">Fashion Store</a>
+            </h1>
+             <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+             <br>
+         <p>    
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste alias dolores, iusto vel in eligendi perferendis assumenda excepturi itaque magni dignissimos blanditiis modi magnam quis quaerat, numquam voluptas dolorum laborum!
+        </p>
+        </center>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium, distinctio ipsum soluta architecto autem eos quam aliquid aperiam veritatis. Perspiciatis quia, similique magnam minima corporis natus quam tempore repellat itaque molestiae libero eius dolorum fugiat minus dolorem. Excepturi impedit, reiciendis ex non ad culpa vel doloremque id deleniti delectus ab.
+
+        <hr>
+        <center>
+
+        <h1> Contact</h1>
+        <h2>+91 3216547890 | abcd1234@gmail.com</h2>
+        <p>9th sreet avenue planzer plaza, trichy -621000</p>
+        </center>
+       
+
+
+
+  
+    </body>
+</html>
