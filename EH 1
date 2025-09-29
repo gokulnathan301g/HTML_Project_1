@@ -1,0 +1,31 @@
+import java.util.Scanner;
+class invalidexe extends Exception {
+	public invalidexe(String s) {
+	super(s);
+}
+}
+public class customexee {
+
+	public static void main(String[] args) {
+
+		try {
+			Scanner n = new Scanner(System.in);
+			int age=n.nextInt();
+			if( age<18){
+				throw new invalidexe("your not applicable");
+			}
+			}
+		catch(invalidexe e) {
+			System.out.println(e);
+		}
+		catch(Exception e) {
+			System.out.println(e);
+		}
+		finally {
+			System.out.println("thanks");
+		}
+		// TODO Auto-generated method stub
+
+	}
+
+}
